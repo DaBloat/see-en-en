@@ -1,0 +1,19 @@
+{
+  "architectures": [
+    "CNNForSequenceClassification"
+  ],
+  "id2label": {
+    "0": "LABEL_0",
+    "1": "LABEL_1",
+    "2": "LABEL_2"
+  },
+  "input_length": 2376,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1,
+    "LABEL_2": 2
+  },
+  "model_type": "cnn",
+  "torch_dtype": "float32",
+  "transformers_version": "4.51.3"
+}

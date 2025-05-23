@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers[torch]
+openai-whisper
+pillow
+ffmpeg-python
+emoji
+datasets
+librosa
+soundfile
+accelerate>=0.26.0
+numpy==1.26.4
