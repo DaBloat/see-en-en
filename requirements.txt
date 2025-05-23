@@ -1,7 +1,6 @@
 streamlit
 torch
 transformers[torch]
-openai-whisper
 pillow
 ffmpeg-python
 emoji
